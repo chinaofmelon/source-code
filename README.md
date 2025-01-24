@@ -308,7 +308,7 @@
 
 ## AI
 
-- [《GPT 图解》](./src/GPT图解)
+- [《GPT 图解：大模型是怎样构建的》](./src/GPT图解)
 
   <img src="./images/ChatGPT图解.jpg" width="300"/>
 
@@ -321,6 +321,10 @@
 - [《零基础学机器学习》](./src/零基础学机器学习/)
 
   <img src="./images/零基础学机器学习.png" width="300"/>
+
+- [《大模型应用开发：动手做 AI Agent》](./src/大模型应用开发：动手做_AI_Agent/)
+
+  <img src="./images/大模型应用开发：动手做_AI_Agent.jpg" width="300"/>
 
 ## 其他
 
