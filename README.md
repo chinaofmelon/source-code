@@ -325,6 +325,22 @@
 - [《大模型应用开发：动手做 AI Agent》](./src/大模型应用开发：动手做_AI_Agent/)
 
   <img src="./images/大模型应用开发：动手做_AI_Agent.jpg" width="300"/>
+  
+- [《深度学习入门：基于 Python 的理论与实现》](./src/deep-learning-intro-python/)
+
+ <img src="./images/深度学习入门：基于Python的理论与实现.jpg" width="300"/>
+
+ - [《深度学习入门2：自制框架》](./src/deep-learning-from-scratch-3-cn/)
+
+ <img src="./images/深度学习入门2：自制框架.jpg" width="300"/>
+
+  - [《深度学习入门4：强化学习》](./src/deep-learning-from-scratch-4-cn/)
+
+ <img src="./images/深度学习入门4：强化学习.jpg" width="300"/>
+
+ - [《Python深度学习（第2版）》](./src/Math-for-Programmers/)
+
+ <img src="./images/Python深度学习（第2版）.jpg" width="300"/>
 
 ## 其他
 
