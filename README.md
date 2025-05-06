@@ -387,3 +387,7 @@
   > Github 地址：<https://github.com/grpc-up-and-running/samples>
 
   <img src="./images/grpc-up-and-running.png" width="300"/>
+
+## 项目统计
+
+![Alt](https://repobeats.axiom.co/api/embed/c4d01b3632e241c90cdec9508dfde86a7f54c9f5.svg "Repobeats analytics image")
