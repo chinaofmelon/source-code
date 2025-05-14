@@ -6,6 +6,7 @@
   - [操作系统](#操作系统)
   - [存储](#存储)
     - [Redis](#redis)
+    - [SQL](#sql)
     - [MySQL](#mysql)
   - [编程语言](#编程语言)
     - [CPP](#cpp)
@@ -38,6 +39,7 @@
   <img src="./images/x86汇编语言-从实模式到保护模式.jpg" width="300"/>
 
 - [《Computer Systems：A Programmer's Perspective，3/E (CS:APP3e)》/《深入理解计算机操作系统 - 第三版》](./src/cs_app3e)
+
   > 官方网站：<http://csapp.cs.cmu.edu/3e/code.html>
 
   <img src="./images/csapp3e-cover.jpg" width="300"/>
@@ -48,14 +50,25 @@
 ### Redis
 
 - 《Redis 设计与实现》
+
   > 官方地址：<https://huangz.works/redisbook1e/#>
 
   <img src="./images/Redis设计与实现.jpg" width="300"/>
 
 - [《Redis In Action》](./src/redis-in-action)
+
   > 官方提提供下载地址：<https://www.manning.com/books/redis-in-action>
 
   <img src="./images/redis-in-action-cover.jpg" width="300"/>
+
+### SQL
+
+- [《Teach Yourself SQL in 10 Minutes (Fourth Edition)》](./src/Sam-Teach-Yourself-SQL-in-10-Minutes-5th)
+
+  > 官方提提供下载地址：<https://forta.com/books/0135182794/>
+
+  <img src="./images/Sam-Teach-Yourself-SQL-in-10-Minutes-5th.jpg" width="300"/>
+  <img src="./images/Sam-Teach-Yourself-SQL-in-10-Minutes-5th-cn.jpg" width="300"/>
 
 ### MySQL
 
@@ -64,11 +77,13 @@
   <img src="./images/MySQL技术内幕：SQL编程.jpg" width="300"/>
 
 - [《MySQL 必知必会》](./src/MySQL.Crash.Course)
+
   > 官方提供下载地址：<https://forta.com/books/0672327120/>
 
   <img src="./images/MySQL.Crash.Course.jpg" width="300"/>
 
 - [《MySQL Cookbook Fourth Edition》](./src/mysqlcookbook)
+
   > Github 地址：<https://github.com/svetasmirnova/mysqlcookbook>
 
   <img src="./images/MySQL Cookbook Fourth Edition.jpg" width="300"/>
@@ -78,11 +93,13 @@
 ### CPP
 
 - [《Essential C++》](./src/essential-cpp)
+
   > 官方提供下载地址：<http://www.informit.com/store/essential-c-plus-plus-9780201485189>
 
   <img src="./images/Essential-C++.jpeg" width="300"/>
 
 - [《C++ Primer 第五版》](./src/CPP-Primer-5th-GCC_4_7_0)
+
   > 官方提供下载地址：<http://www.informit.com/store/c-plus-plus-primer-9780321714114>
 
   <img src="./images/CPP-Primer-5th.jpg" width="300"/>
@@ -96,6 +113,7 @@
   <img src="./images/cpp-api-design-cn.jpg" width="300"/>
 
 - [《C++ 并发编程实践》/《C++ Concurrency in Action》](./src/CCiA_SourceCode)
+
   > 官方提供下载地址：<https://www.manning.com/books/c-plus-plus-concurrency-in-action>
 
   <img src="./images/C++-Concurrency-in-Action.png" width="300"/>
@@ -106,6 +124,7 @@
   <img src="./images/C++11_14高级编程_Boost_程序库探秘_第三版.jpeg" width="300"/>
 
 - [Modern C++ Tutorial：C++11/14/17/20 On the Fly](./src/modern-cpp-tutorial)
+
   > Github： <https://github.com/changkun/modern-cpp-tutorial>
 
   <img src="./images/modern-cpp-tutorial-cover-2nd.png" width="300"/>
@@ -114,14 +133,17 @@
 ### Java
 
 - [《Java 核心编程第第 10 版》](./src/corejava10)
+
   > - 官网地址：<http://horstmann.com/corejava/>
   > - 官方下载地址：<https://horstmann.com/corejava/corejava10.zip>
 
 - [《Java 核心编程第第 11 版》](./src/corejava11)
+
   > - 官网地址：<http://horstmann.com/corejava/>
   > - 官方下载地址：<https://horstmann.com/corejava/corejava11.zip>
 
 - [《Java 核心编程第第 12 版》](./src/corejava12)
+
   > - 官网地址：<http://horstmann.com/corejava/>
   > - 官方下载地址：<https://horstmann.com/corejava/corejava12.zip>
 
@@ -129,12 +151,14 @@
   <img src="./images/corejava12-02.png" width="300"/>
 
 - [《On Java 8》](./src/OnJava8-Examples)
+
   > - Github: <https://github.com/BruceEckel/OnJava8-Examples>
   > - 官网: <https://www.onjava8.com>
 
   <img src="./images/on-java8.png" width="300"/>
 
 - [The Go Programming Language](./src/gopl.io)
+
   > - Github：<https://github.com/adonovan/gopl.io/>
   > - 官方地址：<http://www.gopl.io/>
 
@@ -169,6 +193,7 @@
   <img src="./images/writing-an-interpreter-in-go-cn.jpg" width="300"/>>
 
 - [《Learn Concurrent Programming With Go》](./ConcurrentProgrammingWithGo)
+
   > Github: <https://github.com/cutajarj/ConcurrentProgrammingWithGo>
 
   <img src="./images/ConcurrentProgrammingWithGo.png" width="300"/>
@@ -180,16 +205,19 @@
   <img src="./images/black-hat-rust.png" width="300"/>
 
 - [《Rust 编程之道》](./src/tao-of-rust-codes)
+
   > Github: <https://github.com/ZhangHanDong/tao-of-rust-codes>
 
   <img src="./images/tao-of-rust-codes.jpg" width="300"/>
 
 - [《Zero To Production In Rust》](./src/zero-to-production)
+
   > Github: <https://github.com/LukeMathWalker/zero-to-production>
 
   <img src="./images/zero2prod.png" width="300"/>
 
 - [《Programming Rust, 2nd Edition》](./src/ProgrammingRust/)
+
   > Github: <https://github.com/ProgrammingRust/examples>
 
   <img src="./images/programming-rust-v2.jpeg" width="300"/>
@@ -197,6 +225,7 @@
 ### Lua
 
 - [《百万在线：大型游戏服务端开发》](./src/million_game_server)
+
   > Github: <https://github.com/luopeiyu/million_game_server>
 
   <img src="./src/million_game_server/web/zcover_big.jpg" width="300"/>
@@ -210,6 +239,7 @@
 - [阮一峰的 JavaScript 教程](./src/ruanyifeng-javascript-tutorial)
   > - 原始代码地址: <https://github.com/wangdoc/javascript-tutorial>
   > - 教程地址: <https://wangdoc.com/javascript/index.html>
+
 ## 网络
 
 - [《Compute-Network-Top-Down-Approach》/《计算机网络-自定向下的方法-第六版》](./src/Compute-Network-Top-Down-Approach)
@@ -220,12 +250,14 @@
 ## Linux/Unix
 
 - [《Advanced Programming in the UNIX® Environment，Third Edition》/《UNIX 环境高级编程 (第 3 版)》](./src/apue.v3)
+
   > 官方地址：<http://www.apuebook.com/>
 
   <img src="./images/apue-cover-v3.jpg" width="300"/>
   <img src="./images/unpv13e-cover-cn.jpg" width="300"/>
 
 - [《UNIX Network Programming，Volume 1，Third Edition Source Code》/《UNIX 网络编程卷 1：套接字联网 API (第 3 版》](./src/unpv13e)
+
   > 官方地址：<http://www.unpbook.com/src.html>
 
   <img src="./images/unpv13e-cover.gif" width="300"/>
@@ -260,6 +292,7 @@
   - glibc 的版本
 
 - [《深入理解 Linux 网络 - 修炼底层内功、掌握高性能原理》](./src/deep_linux_network_tests)
+
   > Github 地址：<https://github.com/yanfeizhang/deep_linux_network_tests>
 
   <img src="./images/images/coder-kung-fu.png" width="300"/>
@@ -292,16 +325,19 @@
 ### eBPF
 
 - [《Linux Observability with BPF》](./src/linux-observability-with-bpf)
+
   > Github 地址：<https://github.com/bpftools/linux-observability-with-bpf>
 
   <img src="./images/linux-observability-with-bpf.png" width="300"/>
 
 - [《Learning eBPF》](./src/learning-ebpf)
+
   > Github 地址：<https://github.com/lizrice/learning-ebpf>
 
   <img src="./images/learning-ebpf-cover.png" width="300"/>
 
 - [《eBPF 云原生安全：原理与实践》](./src/cloud-native-security-with-ebpf)
+
   > Github 地址: <https://github.com/mozillazg/cloud-native-security-with-ebpf>
 
   <img src="./images/cloud-native-security-with-ebpf.jpg" width="300" alt="eBPF 云原生安全：原理与实践" />
@@ -313,6 +349,7 @@
   <img src="./images/ChatGPT图解.jpg" width="300"/>
 
 - [《大模型应用开发极简入门：基于 ChatGPT-4 和 ChatGPT》](./src/gpt_examples-openai1.3/)
+
   > Github 地址：<https://github.com/malywut/gpt_examples/tree/openai1.3>
 
   <img src="./images/Developing-Apps-with-GPT-4-and ChatGPT-CN.jpg" width="300"/>
@@ -384,6 +421,7 @@
   <img src="https://raw.githubusercontent.com/shangzongyu/GPU-Gems-Book-Source-Code/master/Media/repo-cover.jpg"  width="300"/>
 
 - [《gRPC - Up & Running》](./src/grpc-up-and-running)
+
   > Github 地址：<https://github.com/grpc-up-and-running/samples>
 
   <img src="./images/grpc-up-and-running.png" width="300"/>
