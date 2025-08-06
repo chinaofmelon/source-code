@@ -177,7 +177,7 @@
 
 - [《Go 语言高级编程》](./src/anvanced-go-programming)
 
-  - Github：<https://github.com/RainbowMango/GoExpertProgramming>
+  > Github：<https://github.com/RainbowMango/GoExpertProgramming>
 
   <img src="./images/anvanced-go-programming.jpg" width="300"/>
 
@@ -203,10 +203,9 @@
 
 - [《Go 语言精进之路 从新手到高手的编程思想、方法和技巧1/2》](./src/GoProgrammingFromBeginnerToMaster)
 
-  - Github：<https://github.com/bigwhite/GoProgrammingFromBeginnerToMaster>
+  > Github：<https://github.com/bigwhite/GoProgrammingFromBeginnerToMaster>
 
   <img src="./images/GoProgrammingFromBeginnerToMaster.png" width="300"/>
-
 
 ### Rust
 
@@ -389,23 +388,24 @@
 
  <img src="./images/Python深度学习（第2版）.jpg" width="300"/>
 
-- [《AI Engineering》](./src/)
-
-  <img src="./images/AI-Engineering.png" width="300"/>
+- [《AI Engineering》](./src/aie-book/)
 
   > Github 地址：<https://github.com/chiphuyen/aie-book>
 
-- [《Build a Large Language Model (From Scratch)》]
+  <img src="./images/AI-Engineering.png" width="300"/>
 
-  <img src="./images/Build_A_Large_Language_Model.jpeg" width="300"/>
+
+- [《Build a Large Language Model (From Scratch)》](./src/LLMs-from-scratch/)
 
   > Github 地址：<https://github.com/rasbt/LLMs-from-scratch>
 
-- [《LLM Engineer’s Handbook》](./src/)
+  <img src="./images/Build_A_Large_Language_Model.jpeg" width="300"/>
 
-  <img src="./images/LLM_Engineer's_Handbook.png" width="300"/>
+- [《LLM Engineer’s Handbook》](./src/LLM-Engineers-Handbook)
 
   > Github 地址：<https://github.com/PacktPublishing/LLM-Engineers-Handbook>
+
+  <img src="./images/LLM_Engineer's_Handbook.png" width="300"/>
 
 ## 其他
 
