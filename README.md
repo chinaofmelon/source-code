@@ -11,6 +11,7 @@
   - [编程语言](#编程语言)
     - [CPP](#cpp)
     - [Java](#java)
+    - [Go](#go)
     - [Rust](#rust)
     - [Lua](#lua)
     - [JavaScript](#javascript)
@@ -157,6 +158,8 @@
 
   <img src="./images/on-java8.png" width="300"/>
 
+### Go
+
 - [The Go Programming Language](./src/gopl.io)
 
   > - Github：<https://github.com/adonovan/gopl.io/>
@@ -197,6 +200,13 @@
   > Github: <https://github.com/cutajarj/ConcurrentProgrammingWithGo>
 
   <img src="./images/ConcurrentProgrammingWithGo.png" width="300"/>
+
+- [《Go 语言精进之路 从新手到高手的编程思想、方法和技巧1/2》](./src/GoProgrammingFromBeginnerToMaster)
+
+  - Github：<https://github.com/bigwhite/GoProgrammingFromBeginnerToMaster>
+
+  <img src="./images/GoProgrammingFromBeginnerToMaster.png" width="300"/>
+
 
 ### Rust
 
