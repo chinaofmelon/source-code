@@ -305,7 +305,7 @@
 
   > Github 地址：<https://github.com/yanfeizhang/deep_linux_network_tests>
 
-  <img src="./images/images/coder-kung-fu.png" width="300"/>
+  <img src="./images/coder-kung-fu.png" width="300"/>
 
 ## Windows
 
