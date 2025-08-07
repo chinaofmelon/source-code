@@ -181,7 +181,9 @@
 
   <img src="./images/anvanced-go-programming.jpg" width="300"/>
 
-  - [《Go 专家编程》](./src/GoExpertProgramming)
+- [《Go 专家编程》](./src/cloud-native-go)
+
+  > - Github：<https://github.com/cloudnativebooks/cloud-native-go/>
 
   <img src="./images/GoExpertProgramming.png" width="300"/>
 
