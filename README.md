@@ -376,7 +376,7 @@
 
 - [《这就是 MCP》](./src/mcp-book-resource/)
 
-  <img src="./images/这就是_MCP" width="300"/>
+  <img src="./images/这就是_MCP.jpg" width="300"/>
 
 - [《深度学习入门：基于 Python 的理论与实现》](./src/deep-learning-intro-python/)
 
