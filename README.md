@@ -374,6 +374,10 @@
 
   <img src="./images/大模型应用开发：动手做_AI_Agent.jpg" width="300"/>
 
+- [《这就是 MCP》](./src/mcp-book-resource/)
+
+  <img src="./images/这就是_MCP" width="300"/>
+
 - [《深度学习入门：基于 Python 的理论与实现》](./src/deep-learning-intro-python/)
 
   <img src="./images/深度学习入门：基于Python的理论与实现.jpg" width="300"/>

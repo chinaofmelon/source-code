@@ -1,0 +1,26 @@
+{
+	"mcpServers": {
+		"query-rewrite-mcp": {
+			"command": "npx",
+			"args": ["query-rewrite-mcp"],
+			"env": {
+				"OPENROUTER_API_KEY": "xxx",
+				"REWRITE_MODEL": "anthropic/claude-3.7-sonnet"
+			}
+		},
+		"serper-search-mcp": {
+			"command": "uvx",
+			"args": ["serper-mcp-server"],
+			"env": {
+				"SERPER_API_KEY": "xxx"
+			}
+		},
+		"jina-reader-mcp": {
+			"command": "npx",
+			"args": ["jina-mcp-tools"],
+			"env": {
+				"JINA_API_KEY": "xxx"
+			}
+		}
+	}
+}
