@@ -89,6 +89,14 @@
 
   <img src="./images/MySQL Cookbook Fourth Edition.jpg" width="300"/>
 
+### MongoDB
+
+- [《MongoDB In Action (Third Edition)》](./src/MongoDB-in-Action)
+
+  > Github 地址：<https://github.com/arekborucki/MongoDB-in-Action>
+
+  <img src="./images/MongoDB-8.0-In-Action-3rd.jpg" width="300"/>
+
 ## 编程语言
 
 ### CPP
