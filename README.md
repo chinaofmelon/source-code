@@ -383,6 +383,10 @@
 
   <img src="./images/大模型应用开发：动手做_AI_Agent.jpg" width="300"/>
 
+- [《大模型应用开发：RAG实战课》](./src/大模型应用开发：动手做_AI_Agent/)
+
+  <img src="./images/大模型应用开发：RAG实战课.jpg" width="300"/>
+
 - [《这就是 MCP》](./src/mcp-book-resource/)
 
   <img src="./images/这就是_MCP.jpg" width="300"/>
